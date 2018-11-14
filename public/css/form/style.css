@@ -1,0 +1,36 @@
+form{
+	color: black;
+	font-weight: bold;
+}
+ form{
+	border: 1px solid black;
+	 padding: 10px 10px 20px 10px;
+	 margin-bottom: 10px;
+}
+.form-header h1{
+	text-align: center;
+}
+body{
+	color: black;
+}
+
+
+.row input{
+	background: #e6fffa;
+	outline-color: white;
+}
+.row input:active{
+	background: white;
+}
+.row select{
+	 background: #e6fffa;
+ }
+.row textarea{
+	 background: #e6fffa;
+ }
+.tesdiq{
+	border: 1px solid dodgerblue;
+	border-radius: 20px;
+	padding: 8px;
+
+}
